@@ -32,10 +32,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/dashzevegbumchin/Desktop/ASE/lab1b",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,7 +72,7 @@
       <updated>1730247628289</updated>
       <workItem from="1730247629416" duration="339000" />
       <workItem from="1730247989997" duration="34000" />
-      <workItem from="1730248039198" duration="5837000" />
+      <workItem from="1730248039198" duration="6152000" />
     </task>
     <servers />
   </component>
